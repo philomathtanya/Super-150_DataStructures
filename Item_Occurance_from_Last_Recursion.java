@@ -1,7 +1,7 @@
 public class Item_Occurance_from_Last_Recursion {
     public static void main(String[] args) {
         int [] arr={1,2,3,4,5,6,7,3,8,9};
-        int item=11;
+        int item=8;
         int i= arr.length-1;
         System.out.println("INDEX : "+find(arr,item,i));
     }
