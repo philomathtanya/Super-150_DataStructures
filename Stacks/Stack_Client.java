@@ -14,7 +14,7 @@ public class Stack_Client {
         s.push(50);
         s.push(60);
 
-        System.out.println("Element: "+s.peek());
+        System.out.println("Element:- "+s.peek());
 
     }
 }
